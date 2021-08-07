@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Fernando and I'm a Software Engineer Java is my main language and I am trying to figure out how to express on all this digital era.
+
+I'm eager to learn, 🌱 I’m currently learning Cojure and I  got a lot productive using emacs, perhaps some day I will be confident to contribute on a large library but by know I consider mysel a truly learner. :) 
+
+If you wanna reach me you can try ...
+
+- ⚡ Fun fact: I have already done a lot of code in Cobol 
+
 <!--
 **fernandovieira/fernandovieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
